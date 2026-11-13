@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-    std :: cout << "Swaga!" << std :: endl;
+    std :: cout << "HEllo!" << std :: endl;
     return 0;
 }
